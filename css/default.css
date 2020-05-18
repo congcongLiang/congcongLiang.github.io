@@ -8,7 +8,7 @@ body{margin:0;padding:0;background:url(../imag/lina.jpg);font-size:12px;overflow
 #words{font-family:"sans-serif";width:500px;font-size:24px;color:#666}
 #messages{display:none}
 #elapseClock .digit{font-family:"digit";font-size:36px}
-#loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:120px;text-align:right;display:none;color:#FFC0CB}
+#loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:125px;text-align:right;display:none;color:#FFC0CB}
 #loveu .signature{margin-top:10px;font-size:20px;font-style:italic;}
 #clickSound{display:none}
 #code{float:left;width:440px;height:400px;color:#333;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px}
@@ -20,4 +20,4 @@ body{margin:0;padding:0;background:url(../imag/lina.jpg);font-size:12px;overflow
 #copyright{margin-top:10px;text-align:center;width:100%;color:#666}
 #errorMsg{width:100%;text-align:center;font-size:24px;position:absolute;top:100px;left:0}
 #copyright a{color:#666}
-.footer2 {color:#87CEFA}
+.footer2 {color:#FF69B4}
